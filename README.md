@@ -24,9 +24,6 @@ I build applications, contribute to open-source projects, and be part of real-wo
 
 <img src="https://komarev.com/ghpvc/?username=Olloyor11&color=blue&style=for-the-badge" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
 
-<p style="text-align: center; max-width: 800px; margin: 20px auto 0 auto;">
-I ☕ Java and love building clean, real-world backend systems. I'm a Backend Developer focused on writing solid, maintainable code using Spring Boot, Docker, and AWS. I'm constantly learning, contributing to projects, and pushing myself to grow into a strong Backend Engineer.
-</p>
 
 ## 🤓 My Skills
 
