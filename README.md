@@ -1,7 +1,9 @@
-<div style="max-width: 100%; text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Ollayor!+👋;Java+Backend+Developer+☕;Building+real-world+projects+🚀;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Typing animation" style="display: block; margin: 0 auto;">
+<div align="center">
 
-  <h2 align="center">Java Backend Developer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Ollayor!+👋;Java+Backend+Developer+☕;Building+real-world+projects+🚀;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30)](https://github.com/Olloyor11)
+
+## Java Backend Developer
+
 </div>
 
 # 👋 Hey, I'm Ollayor.
