@@ -6,7 +6,6 @@
 
 </div>
 
-# 👋 Hey, I'm Ollayor.
 
 A backend developer focused on Java, Spring Boot, Docker, and AWS ☕🚀
 
