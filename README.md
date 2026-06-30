@@ -4,38 +4,22 @@
   <h2 align="center">Java Backend Developer</h2>
 </div>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <div style="text-align: center;">
-        <img
-          src="https://avatars.githubusercontent.com/u/Olloyor11"
-          alt="Ollayor Avatar"
-          style="
-            width: 400px;
-            height: auto;
-            border-radius: 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-          ">
-      </div>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <div style="text-align: center;">
-        <img
-          style="display: block; margin: 0 auto;"
-          src="https://github-readme-stats.vercel.app/api?username=Olloyor11&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="Ollayor's GitHub Stats"
-        />
-        <br/><br/>
-        <img
-          style="display: block; margin: 0 auto;"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olloyor11&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
+# 👋 Hey, I'm Ollayor.
+
+A backend developer focused on Java, Spring Boot, Docker, and AWS ☕🚀
+
+I build applications, contribute to open-source projects, and be part of real-world projects to grow and get better.
+
+## 🔗 About Me
+
+- 💻 Java Backend Developer
+
+- 📚 Constantly learning and building real-world projects
+
+- 🎯 Goal: Become a strong Backend Engineer and contribute to impactful products
+
+- 🇵🇱 Based in Poland
+
 
 <img src="https://komarev.com/ghpvc/?username=Olloyor11&color=blue&style=for-the-badge" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
 
