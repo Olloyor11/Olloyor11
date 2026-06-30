@@ -1,47 +1,34 @@
-<div style="max-width: 100%; text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Ollayor!+👋;Java+Backend+Developer+☕;Building+real-world+projects+🚀;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Typing animation" style="display: block; margin: 0 auto;">
+<div align="center">
 
-  <h2 align="center">Java Backend Developer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Ollayor!+👋;Java+Backend+Developer+☕;Building+real-world+projects+🚀;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30)](https://github.com/Olloyor11)
+
+## Java Backend Developer
+
 </div>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <div style="text-align: center;">
-        <img
-          src="https://avatars.githubusercontent.com/u/Olloyor11"
-          alt="Ollayor Avatar"
-          style="
-            width: 400px;
-            height: auto;
-            border-radius: 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-          ">
-      </div>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <div style="text-align: center;">
-        <img
-          style="display: block; margin: 0 auto;"
-          src="https://github-readme-stats.vercel.app/api?username=Olloyor11&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="Ollayor's GitHub Stats"
-        />
-        <br/><br/>
-        <img
-          style="display: block; margin: 0 auto;"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olloyor11&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Olloyor11&color=blue&style=for-the-badge" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
+<div align="center">
 
-<p style="text-align: center; max-width: 800px; margin: 20px auto 0 auto;">
+| | |
+|---|---|
+| ![Avatar](https://avatars.githubusercontent.com/Olloyor11?size=400) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olloyor11&show_icons=true&theme=tokyonight&hide_border=true) <br/><br/> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olloyor11&layout=compact&theme=tokyonight&hide_border=true) |
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Olloyor11&color=blue&style=for-the-badge)
+
+</div>
+
+<br/>
+
+<p align="center">
 I ☕ Java and love building clean, real-world backend systems. I'm a Backend Developer focused on writing solid, maintainable code using Spring Boot, Docker, and AWS. I'm constantly learning, contributing to projects, and pushing myself to grow into a strong Backend Engineer.
 </p>
+
+---
 
 ## 🤓 My Skills
 
@@ -67,29 +54,27 @@ I ☕ Java and love building clean, real-world backend systems. I'm a Backend De
 
 #### Education:
 
-![Amigoscode](https://img.shields.io/badge/Amigoscode-00C9A7?style=for-the-badge&logo=amigoscode&logoColor=white)
+![Amigoscode](https://img.shields.io/badge/Amigoscode-00C9A7?style=for-the-badge&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-## Contacts:
+---
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="mailto:s.olloyors@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-  <a href="https://linkedin.com/in/olloyor11">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
-  <a href="https://olloyor11.com">
-    <img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
+## 📫 Contacts
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.olloyors@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olloyor11)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olloyor11.com)
+
 </div>
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olloyor11/Olloyor11/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Olloyor11/Olloyor11/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Olloyor11/Olloyor11/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+---
+
+<div align="center">
+
+![Pac-Man Graph](https://raw.githubusercontent.com/Olloyor11/Olloyor11/output/pacman-contribution-graph.svg)
 
 ☕ Learning today. Building tomorrow.
+
+</div>
